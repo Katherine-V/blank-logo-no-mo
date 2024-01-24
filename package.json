@@ -1,0 +1,30 @@
+{
+  "name": "logo-svg",
+  "version": "1.0.0",
+  "description": "Module-10 Challenge",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Katherine-V/          ******.git"
+  },
+  "keywords": [],
+  "author": "Katherine Vogler",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "bugs": {
+    "url": "https://github.com/Katherine-V/          ******/issues"
+  },
+  "homepage": "https://github.com/Katherine-V/          ******#readme"
+}
